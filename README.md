@@ -1,6 +1,6 @@
 # ipl-mongodb
 
-- This projcts demonstrates server side rendering with node js, mongodb queries, ejs templating engine and Highcharts javascript library
+- This projcts demonstrates server side rendering with node js, mongodb queries, unit testing with mocha and chai, ejs templating engine and Highcharts javascript library
 
 # How to start
 
