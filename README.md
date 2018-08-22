@@ -8,3 +8,4 @@
 named 'ipl' in your local or remote mongo DB
 - The above mentioned files are contained in the folder resources in this repo
 - You can use the terminal command mongoimport to do the same
+- node app
